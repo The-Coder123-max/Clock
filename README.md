@@ -1,2 +1,1 @@
-# -Clock
-this is a digital clock 
+# digital-clock
